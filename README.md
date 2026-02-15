@@ -6,5 +6,3 @@
 - Frontend: React
 - Backend: Node.js + Express
 - База данных: PostgreSQL
-
-Архитектура: многоуровневая (Presentation / Business Logic / Data Access).
